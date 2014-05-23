@@ -7,7 +7,9 @@ Author: Raja Kannan
 Author URI: http://rajakannan.com
 Version: 0.2
 License: GPL2
-Text Domain: /language
+Text Domain: test
+GitHub Plugin URI: https://github.com/rajakannan/test
+GitHub Branch: master
 */
 
 /*
