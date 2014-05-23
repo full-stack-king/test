@@ -7,6 +7,8 @@ Changelog
 
 ### 0.2
 * Testing auto update
+
+### 0.1
 * Initial Private Release
 
 Current Version
@@ -14,4 +16,4 @@ Current Version
 
 The line below is used for the updater API, please leave it untouched unless bumping the version up :)
 
-~Current Version:0.2~
+~Current Version:0.1~
