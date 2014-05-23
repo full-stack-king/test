@@ -5,7 +5,7 @@ Description: This plugins is used to test the auto update via github
 Plugin URI: http://rajakannan.com
 Author: Raja Kannan
 Author URI: http://rajakannan.com
-Version: 0.1
+Version: 0.2
 License: GPL2
 Text Domain: /language
 */
