@@ -47,8 +47,8 @@ if ( is_admin() ) {
 	define( 'TEST_SOFTWARE_GITHUB_ZIP_URL', 'https://github.com/rajakannan/test/zipball/master' );
 	define( 'TEST_SOFTWARE_GITHUB_API_URL', 'https://api.github.com/repos/rajakannan/test' );
 	define( 'TEST_SOFTWARE_GITHUB_RAW_URL', 'https://raw.github.com/rajakannan/test/master' );
-	define( 'TEST_SOFTWARE_REQUIRES_WP', '3.9' );
-	define( 'TEST_SOFTWARE_TESTED_WP', '3.9' );
+	define( 'TEST_SOFTWARE_REQUIRES_WP', '3.0' );
+	define( 'TEST_SOFTWARE_TESTED_WP', '3.1' );
 
 	include_once( 'inc/_updater.php' );
 	$config = array(
