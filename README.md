@@ -5,7 +5,7 @@ This plugins is used to test the auto update via github
 Changelog
 ===========
 
-### 1.0
+### 0.1
 * Initial Private Release
 
 Current Version
