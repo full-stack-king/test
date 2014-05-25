@@ -5,7 +5,7 @@ Description: This plugins is used to test the auto update via github
 Plugin URI: http://rajakannan.com
 Author: Raja Kannan
 Author URI: http://rajakannan.com
-Version: 0.2
+Version: 0.3
 License: GPL2
 Text Domain: test
 GitHub Plugin URI: https://github.com/rajakannan/test
@@ -50,7 +50,7 @@ if ( is_admin() ) {
 	define( 'TEST_SOFTWARE_GITHUB_API_URL', 'https://api.github.com/repos/rajakannan/test' );
 	define( 'TEST_SOFTWARE_GITHUB_RAW_URL', 'https://raw.github.com/rajakannan/test/master' );
 	define( 'TEST_SOFTWARE_REQUIRES_WP', '3.0' );
-	define( 'TEST_SOFTWARE_TESTED_WP', '3.1' );
+	define( 'TEST_SOFTWARE_TESTED_WP', '3.9' );
 
 	include_once( 'inc/_updater.php' );
 	$config = array(
