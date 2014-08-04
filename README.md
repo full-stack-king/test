@@ -2,8 +2,6 @@ test
 
 This plugins is used to test the auto update via github
 
-[ ![Codeship Status for rajakannan/test](https://codeship.io/projects/0accd240-fdb6-0131-5044-1ea35c716b39/status)](https://codeship.io/projects/29459)
-
 Changelog
 ===========
 
